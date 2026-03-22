@@ -1,0 +1,16 @@
+Procedure,avg_stay,max_stay
+Surgery and Chemotherapy,42.65151515151515,76
+Radiation Therapy,41.58461538461538,74
+Cardiac Catheterization,41.0,74
+CT Scan and Medication,40.333333333333336,74
+Cast and Physical Therapy,39.0,72
+Angioplasty,38.215384615384615,71
+Physical Therapy and Pain Management,37.859375,70
+Appendectomy,37.43939393939394,72
+Lithotripsy,36.46153846153846,69
+Insulin Therapy,36.09230769230769,69
+Delivery and Postnatal Care,35.52307692307692,68
+Medication and Counseling,35.515151515151516,70
+Antibiotics and Rest,34.66153846153846,68
+X-Ray and Splint,34.25757575757576,67
+Epinephrine Injection,34.24242424242424,68

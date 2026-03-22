@@ -1,0 +1,16 @@
+Procedure,avg_cost,num_patients
+Surgery and Chemotherapy,25000.0,66
+Radiation Therapy,20000.0,65
+Cardiac Catheterization,18000.0,67
+Angioplasty,15000.0,65
+Delivery and Postnatal Care,12000.0,65
+CT Scan and Medication,10000.0,66
+Appendectomy,8000.0,66
+Lithotripsy,6000.0,65
+Physical Therapy and Pain Management,4000.0,64
+Cast and Physical Therapy,3000.0,67
+Insulin Therapy,2000.0,65
+Medication and Counseling,1000.0,66
+Antibiotics and Rest,800.0,65
+X-Ray and Splint,500.0,66
+Epinephrine Injection,100.0,66
